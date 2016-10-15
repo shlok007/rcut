@@ -22,13 +22,15 @@ Or install it yourself as:
 
 Simply run `rcut <valid_url> ` to shorten it.
 
-Are there anymore complications?
+For Example:
 
-`No`
+    rcut http://github.com/shlok007/rcut
 
-Is this really this simple?
+Are there anymore complications or functions?
+=> No
 
-`Yes`
+Really? Is this really this simple to use?
+=> Yes
 
 ## Development
 
