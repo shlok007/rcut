@@ -1,5 +1,7 @@
 # Rcut
 
+[![Gem Version](https://badge.fury.io/rb/rcut.svg)](https://badge.fury.io/rb/rcut)
+
 A ruby wrapper and a command line tool for cutrl URL shortner.
 
 ## Installation
